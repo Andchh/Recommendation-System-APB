@@ -9,3 +9,4 @@ A saída contém os ids dos produtos recomendados.
 Foi escolhido o sistema recomendação utilizando rede neural para replicar matriz de fatoração.
 Mais detalhes em breve
 
+# 
